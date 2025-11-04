@@ -1,4 +1,4 @@
-# Airline Reservation System - (DBMS Project) | Javascript, React JS, Express JS, MySQL <br>
+# Airline Reservation System - (DBMS Project) | Javascript, React JS, Node JS, Express JS, MySQL <br>
 ### March 2024
 <br>
 • This project aimed at creating a Web app where users can book seats from different flights and admin can update
